@@ -8,11 +8,7 @@ Inside queryLab, you'll find:
 
 - **SQL Practice Questions:** A growing repository of SQL practice questions, ranging in complexity, that have been thoughtfully crafted and successfully solved.
 
-- **Solutions Included**: Each practice question comes with a detailed solution, helping you understand not just the answer but also the logic and approach behind it.
-
-- **Browse and Learn**: Explore a variety of SQL scenarios, from basic queries to more advanced database operations, and enhance your SQL skills step by step.
-
-- **Community Interaction:** Engage with a community of like-minded learners, share your insights, and discuss your approaches to solving these practice questions.
+- **Solutions Included**: Each practice question comes with the solution that I crafted, reflecting my learning journey and approach to SQL problem-solving.
 
 - **Continuous Learning:** As I continue my own journey into the world of data, the repository will grow with new questions and solutions, offering you a steady stream of learning material.
 
